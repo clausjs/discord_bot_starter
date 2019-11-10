@@ -1,0 +1,9 @@
+{
+    "command_trigger": "bot",
+    "commands": [
+        {
+            "trigger": "lfg",
+            "logic": "lfg"
+        }
+    ]
+}

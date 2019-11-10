@@ -1,0 +1,19 @@
+{
+  "name": "discord_bot_starter",
+  "version": "1.0.0",
+  "description": "A javascript project to get started with writing discord bots. The only functionality provided out of the box is an LFG feature which allows users to use a command to create voice channels, which when joined will create text channels with associated names. When the channels clear of users, they will be deleted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "lfg"
+  ],
+  "author": "Joseph Claus",
+  "license": "GNU",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
